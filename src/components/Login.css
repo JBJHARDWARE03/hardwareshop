@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.loginsection{
+    position: absolute;
+    z-index:4;
+    width: 100%;
+}
+.loginlogo{
+    display: flex;
+    justify-content: space-around;
+     margin: auto;
+     position: relative;
+     top:125px;
+     z-index:5;
+}
+.logincontainer{
+    position: relative;
+    top:110px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+
+}
+.loginpad{
+    list-style: none;
+    align-items: center;
+    box-shadow: 0 0 10px 0;
+ padding:60px 40px;
+}
+.login{
+   background: white;
+    border: 1px solid black;
+    letter-spacing: 2px;
+}
+.loginpad li{
+    margin-bottom: 10px;
+    
+}
+input{
+    padding: 10px;
+    border: none;
+
+}
+.registration{
+    position: relative;
+    left:40px;
+    color:white;
+}
