@@ -5,7 +5,7 @@ export class Login extends Component{
 render(){
 return(
 <section className="loginsection">
-<img className="loginlogo" src="logo.png"></img>
+<img className="loginlogo" src="Logo.png"></img>
     <div className="logincontainer">
    
         <ul className="loginpad">
