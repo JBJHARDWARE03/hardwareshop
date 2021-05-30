@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hardwareshop/static/css/main.2a488a11.chunk.css",
+    "main.js": "/hardwareshop/static/js/main.5d6b1548.chunk.js",
+    "main.js.map": "/hardwareshop/static/js/main.5d6b1548.chunk.js.map",
+    "runtime-main.js": "/hardwareshop/static/js/runtime-main.c3b47c88.js",
+    "runtime-main.js.map": "/hardwareshop/static/js/runtime-main.c3b47c88.js.map",
+    "static/js/2.15ab4171.chunk.js": "/hardwareshop/static/js/2.15ab4171.chunk.js",
+    "static/js/2.15ab4171.chunk.js.map": "/hardwareshop/static/js/2.15ab4171.chunk.js.map",
+    "static/js/3.e3624aa5.chunk.js": "/hardwareshop/static/js/3.e3624aa5.chunk.js",
+    "static/js/3.e3624aa5.chunk.js.map": "/hardwareshop/static/js/3.e3624aa5.chunk.js.map",
+    "index.html": "/hardwareshop/index.html",
+    "static/css/main.2a488a11.chunk.css.map": "/hardwareshop/static/css/main.2a488a11.chunk.css.map",
+    "static/js/2.15ab4171.chunk.js.LICENSE.txt": "/hardwareshop/static/js/2.15ab4171.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hardwareshop/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3b47c88.js",
+    "static/js/2.15ab4171.chunk.js",
+    "static/css/main.2a488a11.chunk.css",
+    "static/js/main.5d6b1548.chunk.js"
+  ]
+}
