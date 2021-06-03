@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import './Home.css'
 import gear from './gear.gif';
-import logo from './Logo.gif';
+import logo from './Logo.png';
 export class Home extends Component{
 render(){
 return(
