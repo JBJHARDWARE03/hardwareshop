@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import './Login.css'
+import logo from './Logo.png';
 
 export class Login extends Component{
 render(){
 return(
 <section className="loginsection">
-<img className="loginlogo" src="Logo.png"></img>
+<img className="loginlogo" src={logo}></img>
     <div className="logincontainer">
    
         <ul className="loginpad">
